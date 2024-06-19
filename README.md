@@ -1,2 +1,3 @@
 # test-repo
-This is for demo purpose
+
+This is updated from CLI
